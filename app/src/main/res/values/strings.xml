@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fantasy Football Companion</string>
+
+    <string name="filter_name">Player Name</string>
+    <string name="filter_drafted">Show Drafted</string>
+    <string name="filter_position">Positions</string>
+    <string name="filter_done">Close</string>
+
+    <string name="position_qb">QB</string>
+    <string name="position_wr">WR</string>
+    <string name="position_rb">RB</string>
+    <string name="position_te">TE</string>
+    <string name="position_k">K</string>
+    <string name="position_def">DEF</string>
+    <string name="filter_favourites">Favourites Only</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="QB">#4fc3f7</color>
+    <color name="WR">#c5e1a5</color>
+    <color name="RB">#ffcc80</color>
+    <color name="TE">#f48fb1</color>
+    <color name="K">#bcaaa4</color>
+    <color name="DEF">#b0bec5</color>
+
+    <color name="filter_fragment_background">#ffffff</color>
+</resources>
